@@ -5,5 +5,5 @@ Here I will be showcasing work completed through out my apprenticeship, some of 
 
 
 
-Also thanks to [glickmac]https://github.com/glickmac/) who wrote the original HTML for the landing page.
+Also thanks to [glickmac](https://github.com/glickmac/) who wrote the original HTML for the landing page.
 
